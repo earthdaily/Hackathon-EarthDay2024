@@ -4,12 +4,15 @@ We are preparing for another difficult wildfire season per this news report: htt
 
 And we are trying to figure out how to help provide information layers to the FNESS lightship tool: https://fness.lightship.works/v2/public/workspace/90443a23-f822-4ce0-8e2d-c0af1b28ea17/map
 
+Will Parkinson (Technical Product Manager, Software Engineering, EarthDaily Analytics Corp.) gives us a short introduction to the Earth Daily platform and some analyses that can be drawn from the platform.
+https://vimeo.com/933475113/e7988f30ca?share=copy
+
+Will's blog post that provides background can be found here: https://earthdaily.com/resource/measuring-changing-landscapes-with-earthmosaics-2/
+
 In this repo, you will find some example notebooks to help you get started with understanding how to process satellite imagery.
 
 Here is a video walkthrough of how to use one of the notebooks: https://vimeo.com/933471203/ddba3fb127?share=copy
 
 Please make sure that you are signed up for the hackathon at https://docs.google.com/forms/d/e/1FAIpQLSeCIQI7zi_0XPPR2O3JswMdeEVgfOAiB9DAZJ9hfAEEaPybOw/viewform
-
-An additional blog post that provides background can be found here: https://earthdaily.com/resource/measuring-changing-landscapes-with-earthmosaics-2/
 
 And let us know at hackathon@coastalcomputing.ca if you have any questions or comments!
