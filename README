@@ -1,4 +1,8 @@
-Starting on April 15th, 2024 and running through Earth Day (April 22nd) we will be running an earth observation hackathon. This is sponsored by Earth Daily Analytics and the Pacific Coastal Computing Association, with the generous involvement of the First Nations Emergency Services Society.
+Starting on April 15th, 2024 and running through Earth Day (April 22nd) we will be running an earth observation hackathon. This is sponsored by Earth Daily Analytics and the Pacific Coastal Computing Association, with the generous involvement of the First Nations Emergency Services Society (FNESS)
+
+We are preparing for another difficult wildfire season per this news report: https://www.youtube.com/watch?v=c-W_CNim5_E
+
+And we are trying to figure out how to help provide information layers to the FNESS lightship tool: https://fness.lightship.works/v2/public/workspace/90443a23-f822-4ce0-8e2d-c0af1b28ea17/map
 
 In this repo, you will find some example notebooks to help you get started with understanding how to process satellite imagery.
 
