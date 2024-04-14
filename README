@@ -4,19 +4,45 @@ We are preparing for another difficult wildfire season per this news report: htt
 
 And we are trying to figure out how to help provide information layers to the FNESS lightship tool: https://fness.lightship.works/v2/public/workspace/90443a23-f822-4ce0-8e2d-c0af1b28ea17/map
 
-Here is a short video that Derek recorded on how to navigate those layers: https://vimeo.com/934582191/dd6ed0dbf2?share=copy
+Here is a short video that Derek recorded on how to navigate those layers: https://vimeo.com/934582191/dd6ed0dbf2?share=copy (Spanish captions available)
 
 Will Parkinson (Technical Product Manager, Software Engineering, EarthDaily Analytics Corp.) gives us a short introduction to the Earth Daily platform and some analyses that can be drawn from the platform.
-https://vimeo.com/933475113/e7988f30ca?share=copy
+https://vimeo.com/933475113/e7988f30ca?share=copy (Spanish captions available)
 
 Will's blog post that provides background can be found here: https://earthdaily.com/resource/measuring-changing-landscapes-with-earthmosaics-2/
 
 In this repo, you will find some example notebooks to help you get started with understanding how to process satellite imagery.
 
-Sofiia has given a video introduction to remote sensing at: https://vimeo.com/934300283/be047221df?share=copy
+Sofiia has given a video introduction to remote sensing at: https://vimeo.com/934300283/be047221df?share=copy (Spanish captions available)
 
-Here is a video walkthrough of how to use one of the notebooks: https://vimeo.com/933471203/ddba3fb127?share=copy
+Here is a video walkthrough from Ezra of how to use one of the notebooks: https://vimeo.com/933471203/ddba3fb127?share=copy (Spanish captions available)
 
 Please make sure that you are signed up for the hackathon at https://docs.google.com/forms/d/e/1FAIpQLSeCIQI7zi_0XPPR2O3JswMdeEVgfOAiB9DAZJ9hfAEEaPybOw/viewform
 
 And let us know at hackathon@coastalcomputing.ca if you have any questions or comments!
+
+----------------------------------
+
+A partir del 15 de abril de 2024 y hasta el Día de la Tierra (22 de abril), estaremos realizando un hackathon de observación terrestre. Este evento es patrocinado por Earth Daily Analytics y la Asociación de Computación Costera del Pacífico, con la valiosa participación de la Sociedad de Servicios de Emergencia de las Primeras Naciones (FNESS).
+
+Nos estamos preparando para otra temporada difícil de incendios forestales según este informe de noticias: https://www.youtube.com/watch?v=c-W_CNim5_E
+
+Y estamos tratando de descubrir cómo ayudar a proporcionar capas de información para la herramienta lightship de FNESS: https://fness.lightship.works/v2/public/workspace/90443a23-f822-4ce0-8e2d-c0af1b28ea17/map
+
+Aquí hay un video corto que Derek grabó sobre cómo navegar esas capas: https://vimeo.com/934582191/dd6ed0dbf2?share=copy (subtítulos en español disponibles)
+
+Will Parkinson (Gerente de Producto Técnico, Ingeniería de Software, Corp. de Análisis Diario de la Tierra) nos da una breve introducción a la plataforma Earth Daily y algunos análisis que se pueden realizar a partir de la plataforma.
+https://vimeo.com/933475113/e7988f30ca?share=copy (subtítulos en español disponibles)
+
+El blog de Will que proporciona antecedentes se puede encontrar aquí: https://earthdaily.com/resource/measuring-changing-landscapes-with-earthmosaics-2/
+
+En este repositorio, encontrarás algunos cuadernos de ejemplo para ayudarte a comenzar a entender cómo procesar imágenes satelitales.
+
+Sofiia ha dado una introducción en video a la teledetección en: https://vimeo.com/934300283/be047221df?share=copy (subtítulos en español disponibles)
+
+Aquí hay un video tutorial de Ezra sobre cómo usar uno de los cuadernos: https://vimeo.com/933471203/ddba3fb127?share=copy (subtítulos en español disponibles)
+
+Por favor, asegúrate de estar inscrito en el hackathon en https://docs.google.com/forms/d/e/1FAIpQLSeCIQI7zi_0XPPR2O3JswMdeEVgfOAiB9DAZJ9hfAEEaPybOw/viewform
+
+Y déjanos saber en hackathon@coastalcomputing.ca si tienes alguna pregunta o comentario.
+
